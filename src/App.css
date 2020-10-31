@@ -1,0 +1,19 @@
+.Header {
+  min-height: 60vh;
+  min-width: 100vw;
+  background-color: rgb(66, 66, 85);
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  position: absolute;
+  right: -10%;
+  left: -10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#Header-title {
+  color: white;
+  font-weight: 900;
+}
